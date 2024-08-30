@@ -1,0 +1,30 @@
+img {
+  height: 500px;
+
+}
+
+.description {
+  font-size: 20px;
+  font-family: Georgia;
+}
+
+#cook-time {
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+.ingredients li {
+  list-style: square;
+}
+
+p.time {
+  color: gray;
+}
+
+.external-link {
+  color: SeaGreen;
+}
+
+h1, h2, p, li {
+  font-family: Helvetica;
+}
